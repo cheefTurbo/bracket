@@ -1,0 +1,13 @@
+.firstColumn{
+  position:fixed !important;
+  position: absolute;
+  top:0;
+  bottom:0;
+  width:200px;
+  background-color:blue;
+}
+
+.victim{
+  color:white;
+  /* display:none; */
+}

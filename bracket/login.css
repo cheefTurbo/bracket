@@ -1,0 +1,68 @@
+body {
+  background-image: url(https://clients.logicalposition.com/img/background/image4-1280.jpg);
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+}
+
+.error-alert {
+  font-size: 1rem;
+  border: solid 1px #f5c6cb;
+  background: #f8d7da;
+  height: 24px;
+  color: #721c24;
+  width: 289px;
+  height: 45px;
+  line-height: 43px;
+  margin: auto;
+  border-radius: 0.25rem;
+  margin-bottom: 15px;
+}
+
+.modal {
+  border: solid 1px black;
+  background-color: #f8f9fa;
+  width: 400px;
+  margin: auto;
+  border-radius: 8px;
+  text-align: center;
+  border: none;
+}
+.modal img {
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+.modal form {
+  text-align: center;
+  padding: 10px;
+}
+.modal form button {
+  margin-bottom: 40px;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 18px;
+  background: #3f51b5;
+  padding: 15px 40px;
+  border: 0;
+}
+.modal form input {
+  border-radius: 2px;
+  padding: 5px;
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+  border: 0;
+  border-bottom: 1px solid gray;
+  background-color: #f8f9fa;
+  font-size: 16px;
+  padding: 6px 12px;
+  height: 34px;
+}
+.modal a {
+  display: block;
+  padding-bottom: 12px;
+  font-family: arial;
+}
+
+/*# sourceMappingURL=login.css.map */
